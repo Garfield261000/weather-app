@@ -48,7 +48,7 @@ input.searchbar {
     width: calc(70%);
     border: none;
     outline: none;
-    padding: 0.5em 1em;
+    padding: 0.2em 1em;
     border-radius: 20px;
     background: rgb(141, 139, 139);
     color: black;
